@@ -18,7 +18,7 @@ Education
 Work experience
 ======
 * Summer 2021: AI chatbot designer
-  * Deep Dialogue
+  * Company：Deep Dialogue
   * Duties included: Rasa / Botsociety 
   * Supervisor: Yudan Wang
 
