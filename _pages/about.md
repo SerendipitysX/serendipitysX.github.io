@@ -26,20 +26,8 @@ NEWS
 
 ## Publication
 
-<img src="https://chengjin-git.github.io/assets/images/IGARSS_PBSN_schematic.png" style="zoom:15%;" />   **Progressive Band-seperated Convolutional Neural Network for Multispectral Pansharpening**
+<img src="https://chengjin-git.github.io/assets/images/IGARSS_PBSN_schematic.png" alt="Cheng" width="250px" style="float: left"><em><font size="4" face="Arial">Progressive Band-seperated Convolutional Neural Network for Multispectral Pansharpening</font></em><br> <font size="2" face="Arial"><strong>Shishi Xiao</strong>, Cheng Jin，Tianjing Zhang，Liang-Jian Deng*<br> <strong>IGARSS2021</strong>, accepted on 2021/03/17. <br> <a href="" style="color: blue">Click for paper</a> &nbsp;<a href="https://github.com/ChengJin-git/LPPN" style="color: blue">code would be available</a><br> </font>
 
-<div class="publication">
-                        <div class="left"> 
-                            <div class="fluid-width-video-wrapper" style="padding-top: 10.4286%;"><iframe src="https://chengjin-git.github.io/assets/images/IGARSS_PBSN_schematic.png" frameborder="0" allowfullscreen="" id="fitvid0"></iframe></div>
-                        </div>
-                        <div class="right">
-                            <h3><a href="">Progressive Band-seperated Convolutional Neural Network for Multispectral Pansharpening</a></h3>
-                            <a class="author" href="">Shishi Xiao</a>,
-                            <a class="author" href="">Cheng Jin</a>,
-                            <a class="author" href="">Tianjing Zhang</a>,
-                            <a class="author" href="">Ran Ran</a>,
-                            <a class="author" href="">Liangjian Deng</a>,
-                            <p class="venue">IEEE Geoscience and Remote Sensing Society (IGARSS), 2021</p>
-                        </div>
+
 
 ​       
