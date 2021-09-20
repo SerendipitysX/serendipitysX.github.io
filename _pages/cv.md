@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- [Please click here for full CV](https://en.uestc.edu.cn/)
+ [Please click here for full CV](https://github.com/SerendipitysX/ShishiXiao.github.io/blob/master/files/Resume_xss.pdf)
 
 Education
 ======
