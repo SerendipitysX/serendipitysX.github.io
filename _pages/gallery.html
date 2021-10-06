@@ -65,10 +65,13 @@ h1 {
   z-index: 5;
   background:#D6D6D6;
   padding: 10px;
-  position:relative;
   marginLeft:30px
 }
-
+body{ margin:0; height:100%} 
+html{ height:100%} /*兼容firefox的div高度100%*/ 
+#left{ position:absolute; top:0; left:0; width:200px; height:100%; background-color:#CCCCCC;margin-left:10px;
+margin-right:10px;} 
+#right{ margin-left:200px; height:100%; background-color:#0099FF;margin-left:500px} 
 
 </style>
 </head>
@@ -80,17 +83,8 @@ Whatever they come from, they tell the story by visualization.</p>
 <h2>The Covid-19 simulation system by processing &#129412</h2>
 
 <!-- Portfolio Gallery Grid -->
-<div class="web-cam">
-<video src="images/simulation_system_processing.mp4" type="video/mp4">
-您的浏览器不支持 video 标签。
-</video>
-</div>
-
-<div class="box-right">
-<h3>The Covid-19 simulation system by processing </h3><br />
-<p> Closed, semi-open, and completely open system towards virus are discussed. By controling the moving velocity of individual, type of system,
- and simultaneous presentation of infection, the importance of quarantine can be demonstrated.</p>
-</div>
+<div id="left">left</div> 
+<div id="right">right</div> 
 <!-- END GRID -->
 <br />
 
