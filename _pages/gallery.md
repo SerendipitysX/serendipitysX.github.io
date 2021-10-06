@@ -5,23 +5,83 @@ title: "Gallery"
 
 ## The COVID-19 simulation system
 
-<section id="experience" class="home-section wg-experience  ">
-   <div class="home-section-bg "></div>
-    <div class="container">
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>
+* {
+  box-sizing: border-box;
+}
 
-​    
-      <div class="row  ">
+body {
+  margin: 0;
+  font-family: Arial;
+  font-size: 17px;
+}
 
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%; 
+  min-height: 100%;
+}
 
-​        
-          <div class="section-heading col-12 col-lg-4 mb-3 mb-lg-0 d-flex flex-column align-items-center align-items-lg-start">
-            <h1 class="mb-0">Experience</h1>
-            
-          </div>
+.content {
+  position: fixed;
+  bottom: 0;
+  background: rgba(0, 0, 0, 0.5);
+  color: #f1f1f1;
+  width: 100%;
+  padding: 20px;
+}
 
+#myBtn {
+  width: 200px;
+  font-size: 18px;
+  padding: 10px;
+  border: none;
+  background: #000;
+  color: #fff;
+  cursor: pointer;
+}
 
-​      
-​    
+#myBtn:hover {
+  background: #ddd;
+  color: black;
+}
+</style>
+</head>
+<body>
+
+<video autoplay muted loop id="myVideo">
+  <source src="rain.mp4" type="video/mp4">
+  Your browser does not support HTML5 video.
+</video>
+
+<div class="content">
+  <h1>Heading</h1>
+  <p>Lorem ipsum dolor sit amet, an his etiam torquatos. Tollit soleat phaedrum te duo, eum cu recteque expetendis neglegentur. Cu mentitum maiestatis persequeris pro, pri ponderum tractatos ei. Id qui nemore latine molestiae, ad mutat oblique delicatissimi pro.</p>
+  <button id="myBtn" onclick="myFunction()">Pause</button>
+</div>
+
+<script>
+var video = document.getElementById("myVideo");
+var btn = document.getElementById("myBtn");
+
+function myFunction() {
+  if (video.paused) {
+    video.play();
+    btn.innerHTML = "Pause";
+  } else {
+    video.pause();
+    btn.innerHTML = "Play";
+  }
+}
+</script>
+
+</body>
+</html>
 
 ​      
 
@@ -32,92 +92,3 @@ title: "Gallery"
   
 
   
-
-
-  <div class="row experience">
-
-    <div class="col-auto text-center flex-column d-none d-sm-flex">
-      <div class="row h-50">
-        <div class="col ">&nbsp;</div>
-        <div class="col">&nbsp;</div>
-      </div>
-      <div class="m-2">
-        <span class="badge badge-pill border exp-fill">&nbsp;</span>
-      </div>
-      <div class="row h-50">
-        <div class="col border-right">&nbsp;</div>
-        <div class="col">&nbsp;</div>
-      </div>
-    </div>
-    
-    <div class="col py-2">
-      <div class="card">
-        <div class="card-body">
-          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Ph.D. Student</div>
-          <div class="section-subheading card-title exp-company text-muted my-0">The Chinese University of Hong Kong</div>
-          <div class="text-muted exp-meta">
-            Aug 2020 –
-            
-              Present
-
-
-​            
-              <span class="middot-divider"></span>
-              <span>Hong Kong, China</span>
-            
-          </div>
-          
-        </div>
-      </div>
-    </div>
-  </div>
-
-  <div class="row experience">
-
-    <div class="col-auto text-center flex-column d-none d-sm-flex">
-      <div class="row h-50">
-        <div class="col border-right">&nbsp;</div>
-        <div class="col">&nbsp;</div>
-      </div>
-      <div class="m-2">
-        <span class="badge badge-pill border ">&nbsp;</span>
-      </div>
-      <div class="row h-50">
-        <div class="col ">&nbsp;</div>
-        <div class="col">&nbsp;</div>
-      </div>
-    </div>
-    
-    <div class="col py-2">
-      <div class="card">
-        <div class="card-body">
-          <div class="section-subheading card-title exp-title text-muted mt-0 mb-1">Bachelor of Engineering</div>
-          <div class="section-subheading card-title exp-company text-muted my-0">Tsinghua University</div>
-          <div class="text-muted exp-meta">
-            Aug 2016 –
-            
-              Jun 2020
-
-
-​            
-              <span class="middot-divider"></span>
-              <span>Beijing, China</span>
-            
-          </div>
-          
-        </div>
-      </div>
-    </div>
-  </div>
-
-
-</div>
-
-
-​    
-      </div>
-
-
-    </div>
-
-  </section>
