@@ -48,6 +48,15 @@ h1 {
   box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
 }
 
+/* video */
+.web-cam video {
+  width: 300px;
+  height: 200px;
+  border-radius: 5%;
+  position: absolute;
+  top: 20px;
+  z-index: 5;
+}
 </style>
 </head>
 <body>
@@ -55,28 +64,17 @@ h1 {
 <!-- MAIN (Center website) -->
 <p>This is a gallery for exhibiting some intereting pictures designed by me. Some of them from competition, paper, and volenteering work.
 Whatever they come from, they tell the story by visualization.</p>
-<h2>Poster &#128640</h2>
+<h2>The Covid-19 simulation system by processing &#129412</h2>
 
 <!-- Portfolio Gallery Grid -->
-<div class="row">
-  <div class="column">
-    <div class="content">
-      <video src="images/simulation_system_processing.mp4" alt="simulation_virus" style="width:100%">
-      <h3>The Covid-19</h3>
-    </div>
-  </div>
-  
+<div class="web-cam">
+
+<video width="320" height="240" controls>
+  <source src="images/simulation_system_processing.mp4" type="video/mp4">
+</video>
+
 </div>
 <!-- END GRID -->
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
 <br />
 <br />
 <br />
