@@ -28,7 +28,7 @@ NEWS
 
 <img src="https://chengjin-git.github.io/assets/images/IGARSS_PBSN_schematic.png" alt="Cheng" width="250px" style="float: left"> <em><font size="4" face="Arial">Progressive Band-seperated Convolutional Neural Network for Multispectral Pansharpening</font></em> 
 
-<font size="2" face="Arial"><strong>Shishi Xiao</strong>, Cheng Jin，Tianjing Zhang，Liang-Jian Deng*<br> <strong>IGARSS2021</strong>, accepted on 2021/03/17. <br> <a href="" style="color: blue">Click for paper</a> &nbsp;<a href="https://github.com/SerendipitysX/serendipitysX.github.io/blob/master/files/IGARSS2021_PBSNet.pdf" style="color: blue">code would be available</a><br> </font>
+<font size="2" face="Arial"><strong>Shishi Xiao</strong>, Cheng Jin，Tianjing Zhang，Liang-Jian Deng*<br> <strong>IGARSS2021</strong>, accepted on 2021/03/17. <br> <a href="https://github.com/SerendipitysX/serendipitysX.github.io/blob/master/files/IGARSS2021_PBSNet.pdf" style="color: blue">Click for paper</a> &nbsp;<a href="https://github.com/SerendipitysX/PBSNet" style="color: blue">code would be available</a><br> </font>
 
 
 
