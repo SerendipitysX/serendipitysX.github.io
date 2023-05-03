@@ -40,7 +40,7 @@ NEWS
 
 ## Publication
 
-<img  src="https://github.com/ChengJin-git/ChengJin-git.github.io/blob/master/assets/images/WYTIWYR_schematic.png"  alt="WYTIWYR"  width="250px"  style="float: left">  <em><font  size="4"  face="Arial">WYTIWYR: A User Intent-Aware Framework with Multi-modal Inputs for Visualization Retrieval</font></em>
+<img  src="https://serendipitysX.github.io/tree/master/images/WYTIWYR_2023.png"  alt="WYTIWYR"  width="250px"  style="float: left">  <em><font  size="4"  face="Arial">WYTIWYR: A User Intent-Aware Framework with Multi-modal Inputs for Visualization Retrieval</font></em>
 <font  size="2"  face="Arial"><strong>Shishi Xiao</strong>, Yihan Hou, Cheng Jin , Wei Zeng*<br>  <strong>EuroVis 2023</strong> <br>  <a  href="https://arxiv.org/abs/2304.06991"  style="color: blue">paper</a>  &nbsp;<a  href="https://github.com/SerendipitysX/WYTIWYR"  style="color: blue">code</a><br>  </font>
 
 
