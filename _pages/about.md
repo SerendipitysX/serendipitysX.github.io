@@ -40,8 +40,8 @@ NEWS
 
 ## Publication
 
-  <!-- <img  src="https://github.com/SerendipitysX/serendipitysX.github.io/tree/master/images/Eurovis_WYTIWYR_2023.png"  alt="WYTIWYR"  width="250px"  style="float: left">  <em><font  size="4"  face="Arial">WYTIWYR: A User Intent-Aware Framework with Multi-modal Inputs for Visualization Retrieval</font></em>
-<font  size="2"  face="Arial"><strong>Shishi Xiao</strong>, Yihan Hou, Cheng Jin , Wei Zeng*<br>  <strong>EuroVis 2023</strong> <br>  <a  href="https://arxiv.org/abs/2304.06991"  style="color: blue">paper</a>  &nbsp;<a  href="https://github.com/SerendipitysX/WYTIWYR"  style="color: blue">code</a><br>  </font> -->
+<img  src="https://github.com/SerendipitysX/serendipitysX.github.io/tree/master/images/Eurovis_WYTIWYR_2023.png"  alt="WYTIWYR"  width="250px"  style="float: left">  <em><font  size="4"  face="Arial">WYTIWYR: A User Intent-Aware Framework with Multi-modal Inputs for Visualization Retrieval</font></em>
+<font  size="2"  face="Arial"><strong>Shishi Xiao</strong>, Yihan Hou, Cheng Jin , Wei Zeng*<br>  <strong>EuroVis 2023</strong> <br>  <a  href="https://arxiv.org/abs/2304.06991"  style="color: blue">paper</a>  &nbsp;<a  href="https://github.com/SerendipitysX/WYTIWYR"  style="color: blue">code</a><br>  </font>
 
 
 <img  src="https://chengjin-git.github.io/assets/images/IGARSS_PBSN_schematic.png"  alt="PBSNET"  width="250px"  style="float: left">  <em><font  size="4"  face="Arial">Progressive Band-seperated Convolutional Neural Network for Multispectral Pansharpening</font></em>

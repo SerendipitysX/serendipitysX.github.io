@@ -9,9 +9,9 @@ redirect_from:
 
 {% include base_path %}
 
- [Please click here for full CV](https://github.com/SerendipitysX/serendipitysX.github.io/blob/master/files/Resume_xss.pdf)
+ [Please click here for full CV](https://drive.google.com/file/d/1T6MbECc1UGc6H5syHLfc-CKjnQa7jqlY/view?usp=share_link)
 
-Education
+<!-- Education
 ======
 * B.S. in UESTC,  [University of Electronic Science and Technology of China (UESTC, 电子科技大学)](https://en.uestc.edu.cn/), 2018-2022
 
@@ -26,4 +26,4 @@ Publications
 ======
   <ul>{% for post in site.publications %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
