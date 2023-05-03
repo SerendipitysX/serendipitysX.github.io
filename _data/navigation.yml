@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  # - title: "Publications"
+  #   url: /publications/
     
-  - title: "CV"
-    url: /cv/
+  # - title: "CV"
+  #   url: /cv/
     
-  - title: "Gallery"
-    url: /gallery/
+  # - title: "Gallery"
+  #   url: /gallery/
     
-  - title: "Timeline"
-    url: /timeline/
+  # - title: "Timeline"
+  #   url: /timeline/
