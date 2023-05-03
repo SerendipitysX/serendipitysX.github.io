@@ -7,9 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-
   
 
 Hi, welcome to my corner of the Internet!
