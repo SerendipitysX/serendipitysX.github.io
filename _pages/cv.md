@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
- [Please click here for full CV](https://drive.google.com/file/d/1T6MbECc1UGc6H5syHLfc-CKjnQa7jqlY/view?usp=share_link)
+ [Please click here for full CV](https://drive.google.com/file/d/1oxz90PuwTGFFSxzXC7drR86beETTiB1U/view?usp=sharing)
 
 <!-- Education
 ======
