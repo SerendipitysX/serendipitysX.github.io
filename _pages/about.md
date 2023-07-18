@@ -26,6 +26,10 @@ I’m a MPhil student at HKUST(GZ)[(The Hong Kong University of Science and Tech
 NEWS
 
 ------
+- 2023-7-17: One paper got accepted to [IEEE VIS 2023](https://ieeevis.org/year/2023/welcome)✨!
+
+- 2023-6-15: Present our work - intent-aware framework WYTIWYR in [EuroVis 2023](https://www.eurovis.org/)🥰!
+
 - 2023-2-15: One paper got accepted to [EuroVis 2023](https://www.eurovis.org/)📈!
 
 - 2022-9-1: Commencing my MPhil career in [HKUST(GZ)](https://hkust-gz.edu.cn/)👩‍💻!
@@ -39,6 +43,9 @@ NEWS
   
 
 ## Publication
+<img  src="https://serendipitysX.github.io/images/ChartSpark_2023.png"  alt="ChartSpark"  width="250px"  style="float: left">  <em><font  size="4"  face="Arial">Let the Chart Spark: Embedding Semantic Context into Chart with Text-to-Image Generative Model</font></em>
+<font  size="2"  face="Arial"><strong>Shishi Xiao</strong>, Suizi Huang, Yue Lin, Yilin Ye, Wei Zeng*<br>  <strong>IEEE VIS 2023</strong> <br>  <a  href="https://arxiv.org/abs/2304.14630"  style="color: blue">paper</a>  &nbsp;<a  href="https://github.com/SerendipitysX/ChartSpark"  style="color: blue">code</a><br>  </font>
+
 
 <img  src="https://serendipitysX.github.io/images/WYTIWYR_2023.png"  alt="WYTIWYR"  width="250px"  style="float: left">  <em><font  size="4"  face="Arial">WYTIWYR: A User Intent-Aware Framework with Multi-modal Inputs for Visualization Retrieval</font></em>
 <font  size="2"  face="Arial"><strong>Shishi Xiao</strong>, Yihan Hou, Cheng Jin , Wei Zeng*<br>  <strong>EuroVis 2023</strong> <br>  <a  href="https://arxiv.org/abs/2304.06991"  style="color: blue">paper</a>  &nbsp;<a  href="https://github.com/SerendipitysX/WYTIWYR"  style="color: blue">code</a><br>  </font>
