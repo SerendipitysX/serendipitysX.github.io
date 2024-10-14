@@ -221,6 +221,39 @@ article {
   z-index: -1;
 }
 
+/* about section */
+/* 黄色马克笔效果 */
+.highlight-yellow {
+  background-color: #ffdb70; /* 黄色背景 */
+  /* color: white; 白色文字 */
+  color: black;
+  display: inline; /* 确保只高亮文字部分 */
+  padding: -0px 1px;
+  /* font-weight: bold; */
+}
+
+/* hover 就出现图片 */
+.hover-container {
+  position: relative;
+  display: inline-block;
+}
+
+.hover-image {
+  display: none;
+  position: absolute;
+  top: 100%; /* 将图片放在文字正下方 */
+  left: 50%;
+  transform: translateX(-50%);
+  border: 5px solid white;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+  z-index: 9999; /* 确保图片在最上层 */
+}
+
+.hover-container:hover .hover-image {
+  display: block;
+  max-width: fit-content;
+}
+
 .icon-box ion-icon { --ionicon-stroke-width: 35px; }
 
 article { display: none; }
